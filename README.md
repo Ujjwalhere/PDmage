@@ -1,6 +1,6 @@
 **PDmage – Privacy First Offline PDF & Image Toolkit**
 
-![PDmage Logo](assets/logo.png)
+![PDmage Logo](app_icon_512x51222.png)
 
 
 PDmage is a powerful, all-in-one utility designed for seamless PDF and image management — built with a strict focus on privacy, performance, and simplicity. Unlike most apps that rely on cloud processing, PDmage works completely offline, ensuring that your files never leave your device. No uploads, no tracking, no compromises.
